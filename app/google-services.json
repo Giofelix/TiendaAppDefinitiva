@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "84278892124",
+    "project_id": "proveedores-tienda",
+    "storage_bucket": "proveedores-tienda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84278892124:android:226c8dc54f378630b2f899",
+        "android_client_info": {
+          "package_name": "com.example.tiendaapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaOjCrFLcAL-X_DvBoXPJCxzTWgPryNdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84278892124:android:f01e253eec4aa15eb2f899",
+        "android_client_info": {
+          "package_name": "com.example.tiendaappdefinitiva"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaOjCrFLcAL-X_DvBoXPJCxzTWgPryNdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
