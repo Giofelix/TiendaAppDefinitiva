@@ -72,7 +72,7 @@ public class MainActivity extends AppCompatActivity {
                 String username = usernameEditText.getText().toString().trim();
                 String password = passwordEditText.getText().toString().trim();
                 if (TextUtils.isEmpty(username) || TextUtils.isEmpty(password)) {
-                    Toast.makeText(MainActivity.this, "Por favor, ingrese su nombre de usuario y contraseña", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(MainActivity.this, "Por favor, ingrese su nombre de usuario y contraseña Administrador", Toast.LENGTH_SHORT).show();
                 } else {
                     // Inicia ListadoProveedoresActivity al hacer clic en el botón de Administrador proveedores
                     Intent intent = new Intent(MainActivity.this, ListadoProveedoresActivity.class);
